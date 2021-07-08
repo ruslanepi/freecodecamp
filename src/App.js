@@ -1,12 +1,12 @@
-import "./App.css";
-import Setup from "./tutorial/1-useState/setup/1-error-example";
+import './App.css'
+import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data.js'
 
 const App = () => {
   return (
-    <div className="container">
+    <div className='container'>
       <Setup />
     </div>
-  );
-};
+  )
+}
 
-export default App;
+export default App
