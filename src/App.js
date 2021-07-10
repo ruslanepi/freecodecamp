@@ -1,5 +1,5 @@
 import './App.css'
-import Setup from './tutorial/2-useEffect/setup/3-useEffect-fetch-data.js'
+import Setup from './tutorial/3-conditional-rendering/setup/1-multipe-returns'
 
 const App = () => {
   return (
