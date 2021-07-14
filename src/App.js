@@ -1,5 +1,5 @@
 import './App.css'
-import Setup from './tutorial/4-forms/setup/2-multiple-inputs.js'
+import Setup from './tutorial/6-useReducer/setup'
 
 const App = () => {
   return (
