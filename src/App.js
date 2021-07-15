@@ -1,5 +1,5 @@
 import './App.css'
-import Setup from './tutorial/6-useReducer/setup'
+import Setup from './tutorial/10-prop-types/setup/'
 
 const App = () => {
   return (
