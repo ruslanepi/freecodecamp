@@ -1,5 +1,5 @@
 import './App.css'
-import Setup from './tutorial/10-prop-types/setup/'
+import Setup from './tutorial/12-memo-useMemo-useCallback/setup'
 
 const App = () => {
   return (
